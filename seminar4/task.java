@@ -5,8 +5,8 @@
 Пример 4: {a}[+]{(d*3)} - истина
 Пример 5: <{a}+{(d*3)}> - истина
 Пример 6: {a+]}{(d*3)} - ложь*/
-
 package Java.seminar4;
+
 import java.util.Stack;
 //import java.util.Arrays;
 public class task {
