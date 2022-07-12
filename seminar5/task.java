@@ -49,7 +49,7 @@ public class task {
     
     public static void main(String[] args) {
 
-        int a = 11;
+        int a = 1;
         int b = 7;
         int c = 2;
         int d = 1;
